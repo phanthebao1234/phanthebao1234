@@ -1,13 +1,13 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://www.facebook.com/pthebao)
 <h1 align="center">Hi 👋, I'm The Bao</h1>
 <h3 align="center">A website developer in Vietnam</h3>
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="390" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanthebao1234&label=Profile%20views&color=0e75b6&style=flat" alt="phanthebao1234" /> </p>
 
-- 🌱 I’m currently learning **Django, Django-Rest-Framework, Laravel**
+- 🌱 I’m currently learning **Django, Django-Rest-Framework, Laravel, React, React Native**
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Angular, Django, PHP, everything ....**
 
 - 📫 How to reach me **phanthebao888@gmail.com**
 
